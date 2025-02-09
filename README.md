@@ -42,6 +42,7 @@ Installation
     Odoo 17
 
   Steps
+  
    1. Clone the repository
       
    2.Set up a virtual environment
@@ -61,6 +62,7 @@ Configuration
     Access the Module:
     
         Navigate to the ITI Registration menu item in the Odoo backend.
+   
     Set Up:
     
         Configure necessary settings under the Configuration menu.
